@@ -3,22 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests1", "Tests1\Tests1.csproj", "{C3F5484C-9A0A-4AAB-96F2-9B706BDFE06D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests1", "Tests1\Tests1.csproj", "{C3F5484C-9A0A-4AAB-96F2-9B706BDFE06D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4F81B7B1-61BE-4898-9F74-6D3F586141A2}"
 	ProjectSection(SolutionItems) = preProject
 		Directory.Build.props = Directory.Build.props
+		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests2", "Tests2\Tests2.csproj", "{A6A0D1BE-1DC6-4C47-830A-B2FDF1483F8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests2", "Tests2\Tests2.csproj", "{A6A0D1BE-1DC6-4C47-830A-B2FDF1483F8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests3", "Tests3\Tests3.csproj", "{C79B7C1F-1D57-4E5F-804F-159D543D451B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests3", "Tests3\Tests3.csproj", "{C79B7C1F-1D57-4E5F-804F-159D543D451B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests4", "Tests4\Tests4.csproj", "{D34EB878-E34E-4610-A093-722A50057D10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests4", "Tests4\Tests4.csproj", "{D34EB878-E34E-4610-A093-722A50057D10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests5", "Tests5\Tests5.csproj", "{44D859E9-1E4B-4B90-8A75-5EE375E5024C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests5", "Tests5\Tests5.csproj", "{44D859E9-1E4B-4B90-8A75-5EE375E5024C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests6", "Tests6\Tests6.csproj", "{C9F0D91B-CF92-47BD-9449-1B80A06C7637}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests6", "Tests6\Tests6.csproj", "{C9F0D91B-CF92-47BD-9449-1B80A06C7637}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
